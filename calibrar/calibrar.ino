@@ -1,5 +1,5 @@
 /**************************************************************
- * Robô Paragon - Código de Calibração
+ * Robo Exemplo - Código de Calibração
  *
  * Código de exemplo competitivo para os alunos e
  * instrutores do projeto ROBOTIEEE.

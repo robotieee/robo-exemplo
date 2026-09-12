@@ -1,4 +1,4 @@
-# Robô Paragon - Modelo OBR
+# Robo Exemplo - Modelo OBR
 
 Código de exemplo competitivo para os alunos e instrutores do projeto ROBOTIEEE.
 

@@ -1,5 +1,5 @@
 /**************************************************************
- * Robô Paragon - Código Principal
+ * Robo Exemplo - Código Principal
  *
  * Código de exemplo competitivo para os alunos e
  * instrutores do projeto ROBOTIEEE.
